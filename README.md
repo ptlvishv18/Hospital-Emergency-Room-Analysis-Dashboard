@@ -60,11 +60,3 @@ This Hospital Emergency Room Dashboard provides a complete overview of patient a
 * DAX
 * Pivot Tables
 * Pivot Charts
-
----
-
-## Author
-
-Patel Vishv
-
-Aspiring Data Analyst
