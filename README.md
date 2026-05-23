@@ -20,8 +20,7 @@ The hospital wants to create an Emergency Room Analysis Dashboard to monitor pat
 * Which departments received the highest patient referrals?
 * How do patient trends change across months and years?
 * What operational insights can improve hospital efficiency?
-
----
+* Dashboard Interaction <a href="https://github.com/ptlvishv18/Hospital-Emergency-Room-Analysis-Dashboard/blob/main/Dashboard%20Image.png">View Dashboard</a>
 
 ## Process
 
@@ -36,30 +35,9 @@ The hospital wants to create an Emergency Room Analysis Dashboard to monitor pat
 * Added slicers for dynamic filtering by Year and Month.
 * Generated insights from patient and operational data.
 
----
-
 ## Dashboard
 
-(Add your dashboard screenshot here)
-
-```md
-![Dashboard](images/dashboard-preview.png)
-```
-
----
-
-## Dashboard Features
-
-* KPI Cards with Sparklines
-* Patient Admission Analysis
-* Gender-wise Analysis
-* Age Group Distribution
-* Department Referral Analysis
-* Attendance Status Analysis
-* Interactive Year & Month Filters
-* Dynamic and Interactive Charts
-
----
+<img width="1439" height="756" alt="Hospital Emergency Room Dashboard Image" src="https://github.com/user-attachments/assets/841e3cdc-05de-45a9-8f47-64351e1899e6" />
 
 ## Project Insights
 
@@ -70,13 +48,9 @@ The hospital wants to create an Emergency Room Analysis Dashboard to monitor pat
 * Age group analysis highlighted the most frequent patient categories.
 * Attendance status analysis tracked delays and on-time patient handling.
 
----
-
 ## Final Conclusion
 
 This Hospital Emergency Room Dashboard provides a complete overview of patient and operational performance. The dashboard helps hospital management monitor emergency room efficiency, analyze patient behavior, and support data-driven decision-making for improving healthcare services.
-
----
 
 ## Tools & Technologies Used
 
