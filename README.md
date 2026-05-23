@@ -4,13 +4,9 @@
 
 The hospital wants to create an Emergency Room Analysis Dashboard to monitor patient flow, improve operational efficiency, and generate useful insights for better healthcare decision-making.
 
----
-
 ## Dataset Used
 
 - <a href="https://github.com/ptlvishv18/Hospital-Emergency-Room-Analysis-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dataset.csv">Hospital Emergency Room Dataset</a>
-
----
 
 ## Questions (KPIs)
 
